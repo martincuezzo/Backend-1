@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "s21",
+    "description": "samsung galaxy s21",
+    "price": 400,
+    "thumbnails": [
+      "imagen1.jpg",
+      "imagen2.jpg"
+    ],
+    "code": "ABC123",
+    "stock": 10,
+    "category": "celulares",
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "s24",
+    "description": "samsung galaxy s24",
+    "price": 1000,
+    "thumbnails": [
+      "imagen2.jpg",
+      "imagen2.jpg"
+    ],
+    "code": "ABC123s",
+    "stock": 50,
+    "category": "celulares",
+    "status": true
+  }
+]
