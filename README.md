@@ -26,3 +26,7 @@ Este proyecto es una API desarrollada en **Node.js** y **Express** que permite g
    ```bash
    git clone <URL_DEL_REPOSITORIO>
    cd <NOMBRE_DEL_REPOSITORIO>
+2. Instala las dependencias:
+   npm install
+3. Inicia el servidor:
+   node app.js
